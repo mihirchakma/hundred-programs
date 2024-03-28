@@ -16,7 +16,7 @@ fn main() {
     io::stdin().read_line(&mut input2).expect("Failed to read input.");
     let num2: f64 = input2.trim().parse().expect("Please enter a valid number.");
 
-    // Perform calculations
+    // Perform arithmetic calculations
     let sum = num1 + num2;
     let difference = num1 - num2;
     let product = num1 * num2;
