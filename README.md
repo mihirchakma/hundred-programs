@@ -1,2 +1,3 @@
-# hundred-programs
-100 Programs+
+# Hundred Programs Plus
+
+100 Programming Coding Problems
