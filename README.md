@@ -1,3 +1,3 @@
 # Hundred Programs Plus
 
-100 Programming Coding Problems
+100 Programming Coding Problems with Solutions
