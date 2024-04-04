@@ -8,7 +8,7 @@ number_1 = float(input("Enter first number: "))
 number_2 = float(input("Enter second number: "))
 
 # calculate the arithmetic mean 
-mean = (number_1 + number_2) / 3
+mean = (number_1 + number_2) / 2
 
 # Display the result 
 print(f"Arithmetic mean is {mean:.2f}")
